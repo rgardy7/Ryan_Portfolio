@@ -1,5 +1,5 @@
-# Ryan_Portfolio
-Personal Projects
+# Ryan's Portfolio
+## Data Projects
 
 [**Spotify Music Data Analysis (2009-2025)**](https://github.com/rgardy7/Spotify-Music-Data-Analysis/blob/main/README.md)  
 **Overview**  
