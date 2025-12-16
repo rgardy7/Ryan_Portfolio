@@ -1,9 +1,9 @@
 # Ryan's Portfolio  
 ## Data Projects  
 
-## [Predicting Heart Disease - Logistic Regression](https://github.com/rgardy7/Predicting-Heart-Disease)  
+## [**Predicting Heart Disease - Logistic Regression**](https://github.com/rgardy7/Predicting-Heart-Disease)  
 ### **Overview:**  
-The primary goal of this project was to build a predictive model to identify individuals at high risk of developing coronary heart disease (CHD) within the next ten years. Using a dataset that looks into this, I developed a Logistic Regression model to help with prediciting those that may develop heart disease.  
+Primary goal of this project was to build a predictive model to identify individuals at high risk of developing coronary heart disease (CHD) within the next ten years. Using a dataset that looks into this, I developed a Logistic Regression model to help with prediciting those that may develop heart disease.  
 
 ### **Data Source:**  
 The source of this data comes from a dataset on kaggle called [“Logistic regression To predict heart disease”](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)  
